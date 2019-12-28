@@ -3,7 +3,8 @@
 """
 comment:
 
-@author: GanAH  2019/12/12.
+@author1: GanAH  2019/12/26.
+@author2: kgiu  2019/12/26.
 @version 1.0.
-@contact: dinggan@whu.edu.cn
+@contact: 2361205625@qq.com/508044404@qq.com
 """

@@ -452,7 +452,6 @@ class Ui_MainWindow(object):
                 self.tableWidget.setItem(i, j, QtWidgets.QTableWidgetItem("None"))
         self.lineEdit_fromStation.setText('%u6B66fgfdf%9%2FHH[示例cookies]')
         self.lineEdit_targetStation.setText('%u5dfgf7B81%2CDGH[示例cookies]')
-        self.lineEdit_email.setText("46787894564@qq.com[示例]")
 
     def show_time(self):
         """
@@ -549,6 +548,9 @@ class Ui_MainWindow(object):
                 # 学生票需注明，注明方式为：passengers = ['XXX(学生)', 'XXX']
                 # 日期，格式为：'2018-01-20'
                 # 出发地(需填写cookie值)
+                """
+                需要完善
+                """
                 if emailUser == "" and emailPassword == "":
                     reply = self.showMsg("I", "通知邮箱信息未添加，请确认返回填写(Yes)或忽略(No)？")
                     if reply == 65536:
