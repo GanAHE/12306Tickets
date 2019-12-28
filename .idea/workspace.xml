@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7421443f-69c7-4a88-bf18-ba3a6ca799d7" name="默认" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UrYhcNTEyXoIMi7dE08lzJfHX9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="buy_tickets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/crepeer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crepeer/buy_tickets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="email" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/email" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\CodePrograme\Python\12306Tickets\email\emailMessgae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="emailMessgae" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/emailMsg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emailMsg/emailMessgae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getCookies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/getCookies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="12306Tickets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.buy_tickets" />
+        <item itemvalue="Python.getCookies" />
+        <item itemvalue="Python.emailMessgae" />
+        <item itemvalue="Python.email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\浩宇殿主\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7421443f-69c7-4a88-bf18-ba3a6ca799d7" name="默认" comment="" />
+      <created>1576116301436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576116301436</updated>
+      <workItem from="1576116302926" duration="5835000" />
+      <workItem from="1576145424712" duration="17822000" />
+      <workItem from="1576200670344" duration="10749000" />
+      <workItem from="1576295862650" duration="1766000" />
+      <workItem from="1576334212157" duration="7541000" />
+      <workItem from="1576371850135" duration="4921000" />
+      <workItem from="1576377207173" duration="2000" />
+      <workItem from="1576377685519" duration="637000" />
+      <workItem from="1576469513490" duration="1200000" />
+      <workItem from="1576755577622" duration="102000" />
+      <workItem from="1576899529677" duration="1827000" />
+      <workItem from="1577348903823" duration="2028000" />
+      <workItem from="1577360764050" duration="10426000" />
+      <workItem from="1577372715443" duration="4666000" />
+      <workItem from="1577458488661" duration="6669000" />
+      <workItem from="1577496421792" duration="1905000" />
+      <workItem from="1577498502249" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Inspections" timestamp="1576116554388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1576116554388" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1576155056702">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1576155056702" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1576755662170">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1576755662170" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1577499426025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577499426025" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1577499426025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1577499426025" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1577499426025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1577499426025" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1577499426025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1577499426025" />
+    <state width="1493" height="235" key="GridCell.Tab.1.bottom" timestamp="1577465291489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1577465291489" />
+    <state width="1493" height="235" key="GridCell.Tab.1.center" timestamp="1577465291489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1577465291489" />
+    <state width="1493" height="235" key="GridCell.Tab.1.left" timestamp="1577465291489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1577465291489" />
+    <state width="1493" height="235" key="GridCell.Tab.1.right" timestamp="1577465291489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1577465291489" />
+    <state x="349" y="167" key="IDE.errors.dialog" timestamp="1577372413134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="167" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1577372413134" />
+    <state x="524" y="276" key="cloudConfig.SelfSettingsDialog" timestamp="1576339434182">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="524" y="276" key="cloudConfig.SelfSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1576339434182" />
+    <state x="467" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1577496423723">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="467" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1577496423723" />
+    <state x="681" y="185" width="940" height="678" key="search.everywhere.popup" timestamp="1576339403620">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="681" y="185" width="940" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1576339403620" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/12306Tickets$email.coverage" NAME="email Coverage Results" MODIFIED="1576210812695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/email" />
+    <SUITE FILE_PATH="coverage/12306Tickets$buy_tickets.coverage" NAME="buy_tickets Coverage Results" MODIFIED="1577376765651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crepeer" />
+    <SUITE FILE_PATH="coverage/12306Tickets$main.coverage" NAME="main Coverage Results" MODIFIED="1577499236975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/12306Tickets$emailMessgae.coverage" NAME="emailMessgae Coverage Results" MODIFIED="1576211533337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/emailMsg" />
+  </component>
+</project>
